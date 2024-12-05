@@ -1,6 +1,6 @@
 # 🎄 Advent of Code 2024 🎄  
 ![Language](https://img.shields.io/badge/Language-C-blue.svg)  
-![Days Completed](https://img.shields.io/badge/Progress-3%2F25-lightgrey)  
+![Days Completed](https://img.shields.io/badge/Progress-4%2F25-lightgrey)  
 ![GitHub last commit](https://img.shields.io/github/last-commit/96jaco96/advent_of_code_2024)  
 
 My solutions for the **[Advent of Code 2024](https://adventofcode.com/2024)** challenges! 🎅 This repository contains my daily attempts to solve the AoC puzzles and are written in **C**.

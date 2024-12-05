@@ -34,8 +34,6 @@ This repository contains:
 
 ---
 
----
-
 ## 💻 You can run these yourself too!  
 
 1. Just clone this repository:  
@@ -63,4 +61,3 @@ You can fork this and try to improve it or whatever.
 I won't be accepting any pull request tho.
 
 These are MY bad solutions and will stay like they're.
-
